@@ -1,3 +1,3 @@
 First android app made with android studio/Kotlin
 
-Simple todoList
+Simple todo List
